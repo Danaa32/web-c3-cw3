@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
+
+.text-color{
+    color: blueviolet;
+    background-color: lightpink;
+}
+
+#color{
+    color: blueviolet;
+}
+
+h1{
+    font-family: 'Tajawal', sans-serif;
+}
